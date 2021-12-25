@@ -17,7 +17,7 @@
 - [스프링써서 DB에 연결하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/%EC%8A%A4%ED%94%84%EB%A7%81%EC%9C%BC%EB%A1%9C%20db%EC%97%90%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.md)
 - [JPA(Java Persistence API) 맛보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/JPA(Java%20Persistence%20API)%20%EA%B8%B0%EC%B4%88.md)
 - [의존시키기](https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/%EC%9D%98%EC%A1%B4%EC%8B%9C%ED%82%A4%EA%B8%B0(%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EC%8A%A4%EC%BA%94)%2C%20%EC%9E%90%EB%B0%94%20%EC%BD%94%EB%93%9C%EB%A1%9C%20%EC%A7%81%EC%A0%91%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B9%88%20%EB%93%B1%EB%A1%9D%ED%95%98%EA%B8%B0.md)
-- AOP란?
+- [AOP란?](https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/AOP%EB%9E%80(%20Aspect%20Oriented%20Programming%20).md)
 
 
 
@@ -42,3 +42,19 @@
 ## Tool
 
 - [IntelliJ 단축키](https://github.com/kingkingburger/Today_I_Learn/blob/master/IntelliJ/%EB%8B%A8%EC%B6%95%ED%82%A4.md)
+
+
+
+
+
+## JavaScript
+
+- JavaScript를 html에 적용하는 방법
+
+
+
+
+
+## Git
+
+- [Pull Reqeust 알아보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/Git/Pull%20Reqeust%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.md)
