@@ -58,7 +58,9 @@
 
 ## React
 
-[React에서는 css를 module처럼 쓴다](https://github.com/kingkingburger/Today_I_Learn/blob/master/React/React에서는 css를 module처럼 쓴다!.md)
+- [React에서는 css를 module처럼 쓴다](https://github.com/kingkingburger/Today_I_Learn/blob/master/React/React%EC%97%90%EC%84%9C%EB%8A%94%20css%EB%A5%BC%20module%EC%B2%98%EB%9F%BC%20%EC%93%B4%EB%8B%A4!.md)
+- [Cleanup function](https://github.com/kingkingburger/Today_I_Learn/blob/master/React/Cleanup%20function.md)
+- [useEffect](https://github.com/kingkingburger/Today_I_Learn/blob/master/React/useEffect.md)
 
 
 
