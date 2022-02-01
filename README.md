@@ -19,6 +19,7 @@
 - [의존시키기](https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/%EC%9D%98%EC%A1%B4%EC%8B%9C%ED%82%A4%EA%B8%B0(%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EC%8A%A4%EC%BA%94)%2C%20%EC%9E%90%EB%B0%94%20%EC%BD%94%EB%93%9C%EB%A1%9C%20%EC%A7%81%EC%A0%91%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B9%88%20%EB%93%B1%EB%A1%9D%ED%95%98%EA%B8%B0.md)
 - [AOP란?](https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/AOP%EB%9E%80(%20Aspect%20Oriented%20Programming%20).md)
 - [(강의보고)스프링부트 개념정리](https://github.com/kingkingburger/Today_I_Learn/tree/master/Spring_Basic/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%20%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC%20with%20JPA)
+- DAO, DTO란
 
 
 
@@ -36,8 +37,9 @@
 
 - [일반적인 웹 애플리케이션 계층 구조](https://github.com/kingkingburger/Today_I_Learn/blob/master/Web/%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8%20%EC%9B%B9%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EA%B3%84%EC%B8%B5%20%EA%B5%AC%EC%A1%B0.md)
 - [프론트엔드와 백엔드의 연결](https://github.com/kingkingburger/Today_I_Learn/blob/master/Web/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%99%80%20%EB%B0%B1%EC%97%94%EB%93%9C%EC%9D%98%20%EC%97%B0%EA%B2%B0.md)
-- HTML From 데이터 전송
-- HTTP 상태코드
+- [HTML From 데이터 전송](https://github.com/kingkingburger/Today_I_Learn/blob/master/Web/HTML%20From%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%86%A1.md)
+- [HTTP 상태코드](https://github.com/kingkingburger/Today_I_Learn/blob/master/Web/HTTP%20%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C.md)
+- HTTP 헤더 캐시와 조건부 요청
 
 
 
