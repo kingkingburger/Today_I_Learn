@@ -72,6 +72,7 @@
 - [map안에 button이 있을때](https://github.com/kingkingburger/Today_I_Learn/blob/master/React/map%EC%95%88%EC%97%90%20button%EC%9D%B4%20%EC%9E%88%EC%9D%84%EB%95%8C.md)
 - [button 에서 onclick 사용하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/React/button%20%EC%97%90%EC%84%9C%20onclick%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 - [React bootstrap 사용해보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/React/React%20bootstrap%20%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0.md)
+-  컴포넌트 렌더링 할 때 반환되는 루트 태그가 2개 있어서 발생했던 경우
 
 
 
