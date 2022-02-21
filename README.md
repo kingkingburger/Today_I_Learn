@@ -82,3 +82,8 @@
 
 - [Pull Reqeust 알아보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/Git/Pull%20Reqeust%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.md)
 
+
+
+## DB
+
+- 트랜잭션의 정의
