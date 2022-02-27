@@ -72,7 +72,7 @@
 - [map안에 button이 있을때](https://github.com/kingkingburger/Today_I_Learn/blob/master/React/map%EC%95%88%EC%97%90%20button%EC%9D%B4%20%EC%9E%88%EC%9D%84%EB%95%8C.md)
 - [button 에서 onclick 사용하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/React/button%20%EC%97%90%EC%84%9C%20onclick%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 - [React bootstrap 사용해보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/React/React%20bootstrap%20%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0.md)
--  컴포넌트 렌더링 할 때 반환되는 루트 태그가 2개 있어서 발생했던 경우
+-  [컴포넌트 렌더링 할 때 반환되는 루트 태그가 2개 있어서 발생했던 경우](https://github.com/kingkingburger/Today_I_Learn/blob/master/React/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%ED%95%A0%20%EB%95%8C%20%EB%B0%98%ED%99%98%EB%90%98%EB%8A%94%20%EB%A3%A8%ED%8A%B8%20%ED%83%9C%EA%B7%B8%EA%B0%80%202%EA%B0%9C%20%EC%9E%88%EC%96%B4%EC%84%9C%20%EB%B0%9C%EC%83%9D%ED%96%88%EB%8D%98%20%EA%B2%BD%EC%9A%B0.md)
 
 
 
@@ -86,4 +86,5 @@
 
 ## DB
 
-- 트랜잭션의 정의
+- [트랜잭션의 정의](https://github.com/kingkingburger/Today_I_Learn/blob/master/DB/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%98%20%EC%A0%95%EC%9D%98.md)
+- 페이징이란
