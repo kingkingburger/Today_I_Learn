@@ -21,7 +21,8 @@
 - [(강의보고)스프링부트 개념정리](https://github.com/kingkingburger/Today_I_Learn/tree/master/Spring_Basic/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%20%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC%20with%20JPA)
 - [DAO, DTO란](https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/DAO%2C%20DTO%EB%9E%80.md)
 - [api 만들어보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/api%20%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0.md)
-- JPA에서 save에 대한 이해
+- [JPA에서 save에 대한 이해](https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/JPA%EC%97%90%EC%84%9C%20save%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%9D%B4%ED%95%B4.md)
+- JPA에서 쿼리를 쓰는법
 
 
 
@@ -42,6 +43,7 @@
 - [HTML From 데이터 전송](https://github.com/kingkingburger/Today_I_Learn/blob/master/Web/HTML%20From%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%86%A1.md)
 - [HTTP 상태코드](https://github.com/kingkingburger/Today_I_Learn/blob/master/Web/HTTP%20%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C.md)
 - [HTTP 헤더 캐시와 조건부 요청](https://github.com/kingkingburger/Today_I_Learn/blob/master/Web/HTTP%20%ED%97%A4%EB%8D%94%20%EC%BA%90%EC%8B%9C%EC%99%80%20%EC%A1%B0%EA%B1%B4%EB%B6%80%20%EC%9A%94%EC%B2%AD.md)
+- 무료 호스팅 모아둔 사이트
 
 
 
