@@ -22,11 +22,13 @@
 - [DAO, DTO란](https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/DAO%2C%20DTO%EB%9E%80.md)
 - [api 만들어보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/api%20%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0.md)
 - [JPA에서 save에 대한 이해](https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/JPA%EC%97%90%EC%84%9C%20save%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%9D%B4%ED%95%B4.md)
-- JPA에서 쿼리를 쓰는법
+- [JPA에서 쿼리를 쓰는법](https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/JPA%EC%97%90%EC%84%9C%20%EC%BF%BC%EB%A6%AC%EB%A5%BC%20%EC%93%B0%EB%8A%94%20%EB%B2%95.md)
 
 
 
+## Thymelead
 
+- Thymeleaf로 spring Controller에게 데이터 보내기
 
 ## Node
 
@@ -43,7 +45,7 @@
 - [HTML From 데이터 전송](https://github.com/kingkingburger/Today_I_Learn/blob/master/Web/HTML%20From%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%86%A1.md)
 - [HTTP 상태코드](https://github.com/kingkingburger/Today_I_Learn/blob/master/Web/HTTP%20%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C.md)
 - [HTTP 헤더 캐시와 조건부 요청](https://github.com/kingkingburger/Today_I_Learn/blob/master/Web/HTTP%20%ED%97%A4%EB%8D%94%20%EC%BA%90%EC%8B%9C%EC%99%80%20%EC%A1%B0%EA%B1%B4%EB%B6%80%20%EC%9A%94%EC%B2%AD.md)
-- 무료 호스팅 모아둔 사이트
+- [무료 호스팅 모아둔 사이트](https://github.com/kingkingburger/Today_I_Learn/blob/master/Web/%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EC%9A%A9%20%EB%AC%B4%EB%A3%8C%20%ED%98%B8%EC%8A%A4%ED%8C%85%20TOP%207.md)
 
 
 
