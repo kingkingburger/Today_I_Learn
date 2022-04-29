@@ -28,13 +28,19 @@
 
 ## Thymelead
 
-- Thymeleaf로 spring Controller에게 데이터 보내기
+- [Thymeleaf로 spring Controller에게 데이터 보내기](https://github.com/kingkingburger/Today_I_Learn/tree/master/Thymeleaf)
+
+
 
 ## Node
 
 - [NodeJs -Express에서 API 호출하는 방법](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/NodeJs%20-Express%EC%97%90%EC%84%9C%20API%20%ED%98%B8%EC%B6%9C%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
 
 
+
+## Java
+
+- Java에서 동적할당받기(Java Collection 사용)
 
 
 
