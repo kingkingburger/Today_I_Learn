@@ -29,6 +29,7 @@
 ## Thymelead
 
 - [Thymeleaf로 spring Controller에게 데이터 보내기](https://github.com/kingkingburger/Today_I_Learn/tree/master/Thymeleaf)
+- Thymeleaf VS JSP
 
 
 
@@ -40,7 +41,7 @@
 
 ## Java
 
-- Java에서 동적할당받기(Java Collection 사용)
+- [Java에서 동적할당받기(Java Collection 사용)](https://github.com/kingkingburger/Today_I_Learn/blob/master/Java/Java%EC%97%90%EC%84%9C%20%EB%8F%99%EC%A0%81%ED%95%A0%EB%8B%B9%20%EB%B0%9B%EA%B8%B0.md)
 
 
 
