@@ -23,13 +23,14 @@
 - [api 만들어보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/api%20%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0.md)
 - [JPA에서 save에 대한 이해](https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/JPA%EC%97%90%EC%84%9C%20save%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%9D%B4%ED%95%B4.md)
 - [JPA에서 쿼리를 쓰는법](https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/JPA%EC%97%90%EC%84%9C%20%EC%BF%BC%EB%A6%AC%EB%A5%BC%20%EC%93%B0%EB%8A%94%20%EB%B2%95.md)
+- 
 
 
 
 ## Thymelead
 
 - [Thymeleaf로 spring Controller에게 데이터 보내기](https://github.com/kingkingburger/Today_I_Learn/tree/master/Thymeleaf)
-- Thymeleaf VS JSP
+- [Thymeleaf VS JSP](https://github.com/kingkingburger/Today_I_Learn/blob/master/Thymeleaf/Thymeleaf%20VS%20JSP.md)
 
 
 
