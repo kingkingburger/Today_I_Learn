@@ -54,6 +54,7 @@
 - [HTTP 상태코드](https://github.com/kingkingburger/Today_I_Learn/blob/master/Web/HTTP%20%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C.md)
 - [HTTP 헤더 캐시와 조건부 요청](https://github.com/kingkingburger/Today_I_Learn/blob/master/Web/HTTP%20%ED%97%A4%EB%8D%94%20%EC%BA%90%EC%8B%9C%EC%99%80%20%EC%A1%B0%EA%B1%B4%EB%B6%80%20%EC%9A%94%EC%B2%AD.md)
 - [무료 호스팅 모아둔 사이트](https://github.com/kingkingburger/Today_I_Learn/blob/master/Web/%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EC%9A%A9%20%EB%AC%B4%EB%A3%8C%20%ED%98%B8%EC%8A%A4%ED%8C%85%20TOP%207.md)
+- WEB 서버와 WAS의 차이
 
 
 
