@@ -60,7 +60,8 @@
 ## Java
 
 - [Java에서 동적할당받기(Java Collection 사용)](https://github.com/kingkingburger/Today_I_Learn/blob/master/Java/Java%EC%97%90%EC%84%9C%20%EB%8F%99%EC%A0%81%ED%95%A0%EB%8B%B9%20%EB%B0%9B%EA%B8%B0.md)
-- 입출력 스트림 (InputStream, OutputStream)란
+- [입출력 스트림 (InputStream, OutputStream)란](https://github.com/kingkingburger/Today_I_Learn/blob/master/Java/%EC%9E%85%EC%B6%9C%EB%A0%A5%20%EC%8A%A4%ED%8A%B8%EB%A6%BC%20(InputStream%2C%20OutputStream)%EB%9E%80.md)
+- Jar와 War의 차이는 무엇일까?
 
 
 
