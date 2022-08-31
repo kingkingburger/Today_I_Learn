@@ -61,7 +61,7 @@
 
 - [Java에서 동적할당받기(Java Collection 사용)](https://github.com/kingkingburger/Today_I_Learn/blob/master/Java/Java%EC%97%90%EC%84%9C%20%EB%8F%99%EC%A0%81%ED%95%A0%EB%8B%B9%20%EB%B0%9B%EA%B8%B0.md)
 - [입출력 스트림 (InputStream, OutputStream)란](https://github.com/kingkingburger/Today_I_Learn/blob/master/Java/%EC%9E%85%EC%B6%9C%EB%A0%A5%20%EC%8A%A4%ED%8A%B8%EB%A6%BC%20(InputStream%2C%20OutputStream)%EB%9E%80.md)
-- Jar와 War의 차이는 무엇일까?
+- [Jar와 War의 차이는 무엇일까?](https://github.com/kingkingburger/Today_I_Learn/blob/master/Java/JAR%EC%99%80%20WAR%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EB%8A%94%20%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C.md)
 
 
 
@@ -90,6 +90,14 @@
 ## JavaScript
 
 - [JavaScript를 html에 적용하는 방법](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/JavaScript%EB%A5%BC%20html%EC%97%90%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
+- [var, let, const의 차이](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/var%2C%20let%2C%20const%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
+
+
+
+## TypeScript
+
+- TypeScript에서 Record에 대해
+- Promise에 대해 알아보기
 
 
 
@@ -135,3 +143,8 @@
 
 - [JWT를 이용한 인증 과정](https://github.com/kingkingburger/Today_I_Learn/blob/master/%EC%9D%B8%EC%A6%9D/JWT%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%9D%B8%EC%A6%9D%20%EA%B3%BC%EC%A0%95.md)
 - [인증방식은 3가지가 있다!(쿠키, 세션, 토큰)](https://github.com/kingkingburger/Today_I_Learn/blob/master/%EC%9D%B8%EC%A6%9D/%EC%9D%B8%EC%A6%9D%20%EB%B0%A9%EC%8B%9D%EC%9D%80%203%EA%B0%80%EC%A7%80%EA%B0%80%20%EC%9E%88%EB%8B%A4!(%EC%BF%A0%ED%82%A4%2C%20%EC%84%B8%EC%85%98%2C%20%ED%86%A0%ED%81%B0).md)
+
+
+
+
+
