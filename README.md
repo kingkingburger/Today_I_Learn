@@ -54,6 +54,7 @@
 ## Node
 
 - [NodeJs -Express에서 API 호출하는 방법](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/NodeJs%20-Express%EC%97%90%EC%84%9C%20API%20%ED%98%B8%EC%B6%9C%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
+- upsert 쿼리 쓸 때 유니크 키 찾아야 하는 문제
 
 
 
@@ -97,7 +98,9 @@
 ## TypeScript
 
 - TypeScript에서 Record에 대해
-- Promise에 대해 알아보기
+- [Promise에 대해 알아보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/TypeScript%EC%97%90%EC%84%9C%20Record%EC%97%90%20%EB%8C%80%ED%95%B4.md)
+- Typescript 기초 배우기 1편
+- Typescript 기초 배우기 2편
 
 
 
