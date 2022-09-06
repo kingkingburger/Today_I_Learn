@@ -96,7 +96,8 @@
 
 - [JavaScript를 html에 적용하는 방법](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/JavaScript%EB%A5%BC%20html%EC%97%90%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
 - [var, let, const의 차이](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/var%2C%20let%2C%20const%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
-- Js에서 Date다루기
+- [Js에서 Date다루기](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/Js%EC%97%90%EC%84%9C%20Date%EB%8B%A4%EB%A3%A8%EA%B8%B0.md)
+- js의 배열 함수 알아보기
 
 
 
@@ -138,6 +139,9 @@
 
 - [트랜잭션의 정의](https://github.com/kingkingburger/Today_I_Learn/blob/master/DB/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%98%20%EC%A0%95%EC%9D%98.md)
 - [페이징이란](https://github.com/kingkingburger/Today_I_Learn/blob/master/DB/%ED%8E%98%EC%9D%B4%EC%A7%95%20%EC%9D%B4%EB%9E%80.md)
+- Mssql
+  - Mssql에서 한글이 깨질 때
+
 
 
 
