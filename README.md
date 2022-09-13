@@ -143,7 +143,9 @@
 
   - [Mssql에서 한글이 깨질 때](https://github.com/kingkingburger/Today_I_Learn/blob/master/DB/Mssql/Mssql%EC%97%90%EC%84%9C%20%ED%95%9C%EA%B8%80%EC%9D%B4%20%EA%B9%A8%EC%A7%88%20%EB%95%8C.md)
 
-- SQL에서 작은 따옴표와 큰 따옴표의 차이는 무엇일까요?
+- [SQL에서 작은 따옴표와 큰 따옴표의 차이는 무엇일까요?](https://github.com/kingkingburger/Today_I_Learn/blob/master/DB/SQL%EC%97%90%EC%84%9C%20%EC%9E%91%EC%9D%80%20%EB%94%B0%EC%98%B4%ED%91%9C%EC%99%80%20%ED%81%B0%20%EB%94%B0%EC%98%B4%ED%91%9C%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EB%8A%94%20%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%EC%9A%94.md)
+
+- Upsert를 사용할 때 주의할 점
 
   
 
