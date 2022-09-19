@@ -98,7 +98,7 @@
 - [var, let, const의 차이](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/var%2C%20let%2C%20const%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 - [Js에서 Date다루기](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/Js%EC%97%90%EC%84%9C%20Date%EB%8B%A4%EB%A3%A8%EA%B8%B0.md)
 - [js의 배열 함수 알아보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/js%EC%9D%98%20%EB%B0%B0%EC%97%B4%20%ED%95%A8%EC%88%98%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.md)
-- JavaScript에서 null과 undefined 타입의 차이점 알아보기
+- [JavaScript에서 null과 undefined 타입의 차이점 알아보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/JavaScript%EC%97%90%EC%84%9C%20null%EA%B3%BC%20undefined%20%ED%83%80%EC%9E%85%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.md)
 
 
 
@@ -108,6 +108,7 @@
 - [Promise에 대해 알아보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/TypeScript%EC%97%90%EC%84%9C%20Record%EC%97%90%20%EB%8C%80%ED%95%B4.md)
 - [Typescript 기초 배우기 1편](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/typescript%20%EA%B8%B0%EC%B4%88%20%EB%B0%B0%EC%9A%B0%EA%B8%B0%201%ED%8E%B8.md)
 - [Typescript 기초 배우기 2편](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/typescript%20%EA%B8%B0%EC%B4%88%20%EB%B0%B0%EC%9A%B0%EA%B8%B0%202%ED%8E%B8.md)
+- String과 다른 String Literal
 
 
 
