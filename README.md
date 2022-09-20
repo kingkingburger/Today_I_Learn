@@ -55,6 +55,7 @@
 
 - [NodeJs -Express에서 API 호출하는 방법](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/NodeJs%20-Express%EC%97%90%EC%84%9C%20API%20%ED%98%B8%EC%B6%9C%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
 - [upsert 쿼리 쓸 때 유니크 키 찾아야 하는 문제](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/upsert%20%EC%BF%BC%EB%A6%AC%20%EC%93%B8%20%EB%95%8C%20%EC%9C%A0%EB%8B%88%ED%81%AC%20%ED%82%A4%20%EC%B0%BE%EC%95%84%EC%95%BC%20%ED%95%98%EB%8A%94%20%EB%AC%B8%EC%A0%9C.md)
+- Nodejs에서 프로시져 사용하기(mssql)
 
 
 
@@ -108,7 +109,7 @@
 - [Promise에 대해 알아보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/TypeScript%EC%97%90%EC%84%9C%20Record%EC%97%90%20%EB%8C%80%ED%95%B4.md)
 - [Typescript 기초 배우기 1편](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/typescript%20%EA%B8%B0%EC%B4%88%20%EB%B0%B0%EC%9A%B0%EA%B8%B0%201%ED%8E%B8.md)
 - [Typescript 기초 배우기 2편](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/typescript%20%EA%B8%B0%EC%B4%88%20%EB%B0%B0%EC%9A%B0%EA%B8%B0%202%ED%8E%B8.md)
-- String과 다른 String Literal
+- [String과 다른 String Literal](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/String%20%EA%B3%BC%EB%8A%94%20%EB%8B%A4%EB%A5%B8%20String%20Literal.md)
 
 
 
