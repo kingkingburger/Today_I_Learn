@@ -158,6 +158,7 @@
 ## Docker
 
 - [Docker란?](https://github.com/kingkingburger/Today_I_Learn/blob/master/Docker/Docker%EB%9E%80.md)
+- 도커로 외부 접속시 mysql 접속 에러 문제
 
 
 
