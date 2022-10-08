@@ -100,7 +100,7 @@
 - [Js에서 Date다루기](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/Js%EC%97%90%EC%84%9C%20Date%EB%8B%A4%EB%A3%A8%EA%B8%B0.md)
 - [js의 배열 함수 알아보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/js%EC%9D%98%20%EB%B0%B0%EC%97%B4%20%ED%95%A8%EC%88%98%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.md)
 - [JavaScript에서 null과 undefined 타입의 차이점 알아보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/JavaScript%EC%97%90%EC%84%9C%20null%EA%B3%BC%20undefined%20%ED%83%80%EC%9E%85%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.md)
-- js에서 '==' 과 '==='의 차이는
+- [js에서 '==' 과 '==='의 차이는](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/js%EC%97%90%EC%84%9C%20'%3D%3D'%20%EA%B3%BC%20'%3D%3D%3D'%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EB%8A%94.md)
 
 
 
@@ -111,7 +111,7 @@
 - [Typescript 기초 배우기 1편](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/typescript%20%EA%B8%B0%EC%B4%88%20%EB%B0%B0%EC%9A%B0%EA%B8%B0%201%ED%8E%B8.md)
 - [Typescript 기초 배우기 2편](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/typescript%20%EA%B8%B0%EC%B4%88%20%EB%B0%B0%EC%9A%B0%EA%B8%B0%202%ED%8E%B8.md)
 - [String과 다른 String Literal](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/String%20%EA%B3%BC%EB%8A%94%20%EB%8B%A4%EB%A5%B8%20String%20Literal.md)
-- Unknown 타입에 대해서
+- [Unknown 타입에 대해서](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/Unknown%20%ED%83%80%EC%9E%85%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C.md)
 
 
 
@@ -178,4 +178,8 @@
 - [vpn은 무엇인가?](https://github.com/kingkingburger/Today_I_Learn/blob/master/Network/VPN%EC%9D%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md)
 
 
+
+## Linux
+
+- 리눅스의 시간은 윈도우의 시간과 다르게 흘러가나
 
