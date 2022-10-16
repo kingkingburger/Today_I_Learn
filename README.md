@@ -101,6 +101,7 @@
 - [js의 배열 함수 알아보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/js%EC%9D%98%20%EB%B0%B0%EC%97%B4%20%ED%95%A8%EC%88%98%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.md)
 - [JavaScript에서 null과 undefined 타입의 차이점 알아보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/JavaScript%EC%97%90%EC%84%9C%20null%EA%B3%BC%20undefined%20%ED%83%80%EC%9E%85%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.md)
 - [js에서 '==' 과 '==='의 차이는](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/js%EC%97%90%EC%84%9C%20'%3D%3D'%20%EA%B3%BC%20'%3D%3D%3D'%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EB%8A%94.md)
+- js에서 YYYY-MM-DD형태로 시간 가져오기
 
 
 
@@ -181,5 +182,5 @@
 
 ## Linux
 
-- 리눅스의 시간은 윈도우의 시간과 다르게 흘러가나
+- [리눅스의 시간은 윈도우의 시간과 다르게 흘러가나](https://github.com/kingkingburger/Today_I_Learn/blob/master/%EB%A6%AC%EB%88%85%EC%8A%A4/%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9D%98%20%EC%8B%9C%EA%B0%84%EA%B3%BC%20%EC%9C%88%EB%8F%84%EC%9A%B0%EC%9D%98%20%EC%8B%9C%EA%B0%84%EC%9D%80%20%EB%8B%A4%EB%A5%B4%EA%B2%8C%20%ED%9D%98%EB%9F%AC%EA%B0%80%EB%82%98.md)
 
