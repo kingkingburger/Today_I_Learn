@@ -57,7 +57,8 @@
 - [upsert 쿼리 쓸 때 유니크 키 찾아야 하는 문제](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/upsert%20%EC%BF%BC%EB%A6%AC%20%EC%93%B8%20%EB%95%8C%20%EC%9C%A0%EB%8B%88%ED%81%AC%20%ED%82%A4%20%EC%B0%BE%EC%95%84%EC%95%BC%20%ED%95%98%EB%8A%94%20%EB%AC%B8%EC%A0%9C.md)
 - [Nodejs에서 프로시져 사용하기(mssql)](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Node.js%20%EC%97%90%EC%84%9C%20%ED%94%84%EB%A1%9C%EC%8B%9C%EC%A0%B8%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 - [Sequelize에서 include된 객체를 다시가져와야 할 때](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize%EC%97%90%EC%84%9C%20include%EB%90%9C%20%EA%B0%9D%EC%B2%B4%EB%A5%BC%20%EB%8B%A4%EC%8B%9C%20%EA%B0%80%EC%A0%B8%EC%99%80%EC%95%BC%20%ED%95%A0%20%EB%95%8C.md) 
-- Sequelize에서 boolean 타입칼럼을 (A=0 or A IS NULL)문으로 만들어보기
+- [Sequelize에서 boolean 타입칼럼을 (A=0 or A IS NULL)문으로 만들어보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize%EC%97%90%EC%84%9C%20boolean%20%ED%83%80%EC%9E%85%EC%B9%BC%EB%9F%BC%EC%9D%84%20(A%3D0%20or%20A%20IS%20NULL)%EB%AC%B8%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0.md)
+- Sequelize select문 조건 알아보기
 
 
 
