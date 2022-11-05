@@ -107,6 +107,7 @@
 - [js에서 YYYY-MM-DD형태로 시간 가져오기](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/js%EC%97%90%EC%84%9C%20YYYY-MM-DD%ED%98%95%ED%83%9C%EB%A1%9C%20%EC%8B%9C%EA%B0%84%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.md)
 - [백틱을 이용한 코드 줄이기!](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/%EB%B0%B1%ED%8B%B1%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%BD%94%EB%93%9C%20%EC%A4%84%EC%9D%B4%EA%B8%B0!.md)
 - [JSON Parse와 JSON stringify에 대해서](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/JSON%20Parse%EC%99%80%20JSON%20stringify%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C.md)
+- Math.max에서 Nan가 뜨는 이유
 
 
 
