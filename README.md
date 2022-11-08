@@ -59,6 +59,7 @@
 - [Sequelize에서 include된 객체를 다시가져와야 할 때](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize%EC%97%90%EC%84%9C%20include%EB%90%9C%20%EA%B0%9D%EC%B2%B4%EB%A5%BC%20%EB%8B%A4%EC%8B%9C%20%EA%B0%80%EC%A0%B8%EC%99%80%EC%95%BC%20%ED%95%A0%20%EB%95%8C.md) 
 - [Sequelize에서 boolean 타입칼럼을 (A=0 or A IS NULL)문으로 만들어보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize%EC%97%90%EC%84%9C%20boolean%20%ED%83%80%EC%9E%85%EC%B9%BC%EB%9F%BC%EC%9D%84%20(A%3D0%20or%20A%20IS%20NULL)%EB%AC%B8%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0.md)
 - [Sequelize select문 조건 알아보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize%20select%EB%AC%B8%20%EC%A1%B0%EA%B1%B4%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.md)
+- package.json에서 dependencies와 devDependencies의 차이점
 
 
 
@@ -107,7 +108,7 @@
 - [js에서 YYYY-MM-DD형태로 시간 가져오기](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/js%EC%97%90%EC%84%9C%20YYYY-MM-DD%ED%98%95%ED%83%9C%EB%A1%9C%20%EC%8B%9C%EA%B0%84%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.md)
 - [백틱을 이용한 코드 줄이기!](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/%EB%B0%B1%ED%8B%B1%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%BD%94%EB%93%9C%20%EC%A4%84%EC%9D%B4%EA%B8%B0!.md)
 - [JSON Parse와 JSON stringify에 대해서](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/JSON%20Parse%EC%99%80%20JSON%20stringify%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C.md)
-- Math.max에서 Nan가 뜨는 이유
+- [Math.max에서 Nan가 뜨는 이유](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/Math.max%EC%97%90%EC%84%9C%20Nan%EA%B0%80%20%EB%9C%A8%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
 
 
 
