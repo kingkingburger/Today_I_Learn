@@ -59,7 +59,7 @@
 - [Sequelize에서 include된 객체를 다시가져와야 할 때](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize%EC%97%90%EC%84%9C%20include%EB%90%9C%20%EA%B0%9D%EC%B2%B4%EB%A5%BC%20%EB%8B%A4%EC%8B%9C%20%EA%B0%80%EC%A0%B8%EC%99%80%EC%95%BC%20%ED%95%A0%20%EB%95%8C.md) 
 - [Sequelize에서 boolean 타입칼럼을 (A=0 or A IS NULL)문으로 만들어보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize%EC%97%90%EC%84%9C%20boolean%20%ED%83%80%EC%9E%85%EC%B9%BC%EB%9F%BC%EC%9D%84%20(A%3D0%20or%20A%20IS%20NULL)%EB%AC%B8%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0.md)
 - [Sequelize select문 조건 알아보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize%20select%EB%AC%B8%20%EC%A1%B0%EA%B1%B4%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.md)
-- package.json에서 dependencies와 devDependencies의 차이점
+- [package.json에서 dependencies와 devDependencies의 차이점](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/package.json%EC%97%90%EC%84%9C%20dependencies%EC%99%80%20devDependencies%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
 
 
 
@@ -145,7 +145,7 @@
 ## Git
 
 - [Pull Reqeust 알아보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/Git/Pull%20Reqeust%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.md)
-- 마지막 커밋 메세지 바꾸는법
+- [마지막 커밋 메세지 바꾸는법](https://github.com/kingkingburger/Today_I_Learn/blob/master/Git/%EB%A7%88%EC%A7%80%EB%A7%89%20%EC%BB%A4%EB%B0%8B%20%EB%A9%94%EC%84%B8%EC%A7%80%20%EB%B0%94%EA%BE%B8%EB%8A%94%EB%B2%95.md)
 
 
 
@@ -172,6 +172,7 @@
 
 - [Docker란?](https://github.com/kingkingburger/Today_I_Learn/blob/master/Docker/Docker%EB%9E%80.md)
 - [도커로 외부 접속시 mysql 접속 에러 문제](https://github.com/kingkingburger/Today_I_Learn/blob/master/Docker/%EB%8F%84%EC%BB%A4%EB%A1%9C%20%EC%99%B8%EB%B6%80%20%EC%A0%91%EC%86%8D%EC%8B%9C%20mysql%20%EC%A0%91%EC%86%8D%20%EC%97%90%EB%9F%AC%20%EB%AC%B8%EC%A0%9C.md)
+- docker와 docker-compose의 차이점
 
 
 
