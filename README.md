@@ -120,7 +120,7 @@
 - [Typescript 기초 배우기 2편](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/typescript%20%EA%B8%B0%EC%B4%88%20%EB%B0%B0%EC%9A%B0%EA%B8%B0%202%ED%8E%B8.md)
 - [String과 다른 String Literal](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/String%20%EA%B3%BC%EB%8A%94%20%EB%8B%A4%EB%A5%B8%20String%20Literal.md)
 - [Unknown 타입에 대해서](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/Unknown%20%ED%83%80%EC%9E%85%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C.md)
-- TypeScript에서 momentjs 대신 dayjs 사용하기
+- [TypeScript에서 momentjs 대신 dayjs 사용하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/TypeScript%EC%97%90%EC%84%9C%20momentjs%20%EB%8C%80%EC%8B%A0%20dayjs%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 
 
 
@@ -203,4 +203,5 @@
 - [vue 처음 시작하기[2]](https://github.com/kingkingburger/Today_I_Learn/blob/master/vue/vue%20%EC%B2%98%EC%9D%8C%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%5B2%5D.md)
 - [vue 처음 시작하기[3]](https://github.com/kingkingburger/Today_I_Learn/blob/master/vue/vue%20%EC%B2%98%EC%9D%8C%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%5B3%5D.md)
 - [vue 처음 시작하기[4]](https://github.com/kingkingburger/Today_I_Learn/blob/master/vue/vue%20%EC%B2%98%EC%9D%8C%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%5B4%5D.md)
+- vue와 prettier의 충돌
 
