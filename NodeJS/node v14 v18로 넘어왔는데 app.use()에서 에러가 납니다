@@ -1,0 +1,26 @@
+## node v14 -> v18로 넘어왔는데 app.use()에서 에러가 납니다.
+
+![image](https://user-images.githubusercontent.com/112359150/202952676-fc81b13b-c4d0-4b3d-88de-2e490ecd62c5.png)
+
+```
+No overload matches this call.   The last overload gave the following error.     Argument of type 'Handler<Request<ParamsDictionary, any, any, ParsedQs>, ServerResponse<IncomingMessage>>' is not assignable to parameter of type 'PathParams'.       Type 'Handler<Request<ParamsDictionary, any, any, ParsedQs>, ServerResponse<IncomingMessage>>' is not assignable to type '(string | RegExp)[]'. 
+```
+
+typescript에서 함수 overloading이 맞지 않아서 생기는 오류같습니다. node의 버전이 업그래이드 되면서 함수의 매개변수도 변한거 같습니다.
+
+![image](https://user-images.githubusercontent.com/112359150/202967133-b29f3e34-9be5-4fe8-829d-d8d61598c723.png)
+
+use는 handler 매개변수를 원합니다. type은 RequestHandler를 원하네요. 
+
+```ts
+import express, { RequestHandler } from 'express';
+app.use(morgan('dev') as RequestHandler);
+```
+
+RequestHandler라고 명시해줍시다.
+
+![image](https://user-images.githubusercontent.com/112359150/202967299-70c2e646-357e-4eb4-a84f-24af75f60922.png)
+
+morgan()의 리턴타입은 Handler입니다. 이것도 ReqeustHandler로 타입을 명시해줍시다.
+
+이러면 에러가 사라지고 express가 잘 작동되었습니다.

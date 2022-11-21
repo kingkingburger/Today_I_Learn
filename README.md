@@ -61,7 +61,8 @@
 - [Sequelize에서 boolean 타입칼럼을 (A=0 or A IS NULL)문으로 만들어보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize%EC%97%90%EC%84%9C%20boolean%20%ED%83%80%EC%9E%85%EC%B9%BC%EB%9F%BC%EC%9D%84%20(A%3D0%20or%20A%20IS%20NULL)%EB%AC%B8%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0.md)
 - [Sequelize select문 조건 알아보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize%20select%EB%AC%B8%20%EC%A1%B0%EA%B1%B4%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.md)
 - [package.json에서 dependencies와 devDependencies의 차이점](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/package.json%EC%97%90%EC%84%9C%20dependencies%EC%99%80%20devDependencies%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
-- pnpm에서 tsc-watch 사용하기
+- [pnpm에서 tsc-watch 사용하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/pnpm%EC%97%90%EC%84%9C%20tsc-watch%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
+- node v14 -> v18로 넘어왔는데 app.use()에서 에러가 납니다.
 
 
 
