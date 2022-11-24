@@ -74,7 +74,8 @@
   - [Sequelize에서 boolean 타입칼럼을 (A=0 or A IS NULL)문으로 만들어보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize%EC%97%90%EC%84%9C%20boolean%20%ED%83%80%EC%9E%85%EC%B9%BC%EB%9F%BC%EC%9D%84%20(A%3D0%20or%20A%20IS%20NULL)%EB%AC%B8%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0.md)
   - [Sequelize select문 조건 알아보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize%20select%EB%AC%B8%20%EC%A1%B0%EA%B1%B4%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.md)
   - [Sequelize에서 서브쿼리를 써야할 때!](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/%E2%9C%85%20Sequelize%EC%97%90%EC%84%9C%20%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC%EB%A5%BC%20%EC%8D%A8%EC%95%BC%ED%95%A0%20%EB%95%8C!.md)
-  - Seqeulize에서 연관관계 Json 가져오기
+  - [Seqeulize에서 연관관계 Json 가져오기](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize/Seqeulize%EC%97%90%EC%84%9C%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20Json%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.md)
+  - Sequelize에서 delete가 안될 때 
 
 
 
