@@ -75,7 +75,7 @@
   - [Sequelize select문 조건 알아보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize%20select%EB%AC%B8%20%EC%A1%B0%EA%B1%B4%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.md)
   - [Sequelize에서 서브쿼리를 써야할 때!](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/%E2%9C%85%20Sequelize%EC%97%90%EC%84%9C%20%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC%EB%A5%BC%20%EC%8D%A8%EC%95%BC%ED%95%A0%20%EB%95%8C!.md)
   - [Seqeulize에서 연관관계 Json 가져오기](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize/Seqeulize%EC%97%90%EC%84%9C%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20Json%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.md)
-  - Sequelize에서 delete가 안될 때 
+  - [Sequelize에서 delete가 안될 때](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize/%E2%9C%85%20Sequelize%EC%97%90%EC%84%9C%20delete%EA%B0%80%20%EC%95%88%EB%90%A0%20%EB%95%8C.md) 
 
 
 
@@ -138,7 +138,8 @@
 - [String과 다른 String Literal](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/String%20%EA%B3%BC%EB%8A%94%20%EB%8B%A4%EB%A5%B8%20String%20Literal.md)
 - [Unknown 타입에 대해서](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/Unknown%20%ED%83%80%EC%9E%85%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C.md)
 - [TypeScript에서 momentjs 대신 dayjs 사용하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/TypeScript%EC%97%90%EC%84%9C%20momentjs%20%EB%8C%80%EC%8B%A0%20dayjs%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
-- Invalid type of template literal expression에러가 났을 때
+- [Invalid type of template literal expression에러가 났을 때](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/Invalid%20type%20of%20template%20literal%20expression%EC%97%90%EB%9F%AC%EA%B0%80%20%EB%82%AC%EC%9D%84%20%EB%95%8C.md)
+-  Jest로 typescript 테스트 코드 만들어보기
 
 
 
