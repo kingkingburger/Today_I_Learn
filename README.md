@@ -76,7 +76,7 @@
   - [Sequelize에서 서브쿼리를 써야할 때!](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/%E2%9C%85%20Sequelize%EC%97%90%EC%84%9C%20%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC%EB%A5%BC%20%EC%8D%A8%EC%95%BC%ED%95%A0%20%EB%95%8C!.md)
   - [Seqeulize에서 연관관계 Json 가져오기](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize/Seqeulize%EC%97%90%EC%84%9C%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20Json%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.md)
   - [Sequelize에서 delete가 안될 때](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize/%E2%9C%85%20Sequelize%EC%97%90%EC%84%9C%20delete%EA%B0%80%20%EC%95%88%EB%90%A0%20%EB%95%8C.md) 
-  - sequelize에서 관계설정할 때 column 이름과 reference 이름을 달리해야 한다!
+  - [sequelize에서 관계설정할 때 column 이름과 reference 이름을 달리해야 한다!](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize/Sequelize%EC%97%90%EC%84%9C%20%EA%B4%80%EA%B3%84%EC%84%A4%EC%A0%95%ED%95%A0%20%EB%95%8C%20column%EC%9D%B4%EB%A6%84%EA%B3%BC%20reference%EC%9D%B4%EB%A6%84%EC%9D%84%20%EB%8B%AC%EB%A6%AC%ED%95%B4%EC%95%BC%ED%95%9C%EB%8B%A4!.md)
 
 
 
@@ -183,6 +183,8 @@
 - [Upsert를 사용할 때 주의할 점](https://github.com/kingkingburger/Today_I_Learn/blob/master/DB/Upsert%EB%A5%BC%20%ED%95%A0%20%EB%95%8C%20%EC%A3%BC%EC%9D%98%ED%95%A0%20%EC%A0%90.md)
 
 - [dbever에서 mssql 테이블 추출하는 법](https://github.com/kingkingburger/Today_I_Learn/blob/master/DB/dbever%EC%97%90%EC%84%9C%20mssql%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EC%B6%94%EC%B6%9C%ED%95%98%EB%8A%94%20%EB%B2%95.md)
+
+- Database Lock 종류 및 기능
 
   
 
