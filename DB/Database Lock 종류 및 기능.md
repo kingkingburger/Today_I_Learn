@@ -90,3 +90,5 @@ DB를 사용하는 프로그래밍을 진행하면서 몇가지 주의사항을 
 #### 출처
 
 - https://sabarada.tistory.com/121
+- https://medium.com/29cm/db-postgresql-lock-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-57d37ebe057
+  -  postgresql에서 lock에 대해서 롤토체스 예시로 쉽게 알려준 고마운사이트
