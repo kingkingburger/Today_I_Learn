@@ -68,6 +68,8 @@
 
 - [pnpm에서 tsc-watch 사용하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/pnpm%EC%97%90%EC%84%9C%20tsc-watch%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 
+- Swagger를 Typescript적용하기
+
 - ## Sequelize
 
   - [Sequelize에서 include된 객체를 다시가져와야 할 때](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize%EC%97%90%EC%84%9C%20include%EB%90%9C%20%EA%B0%9D%EC%B2%B4%EB%A5%BC%20%EB%8B%A4%EC%8B%9C%20%EA%B0%80%EC%A0%B8%EC%99%80%EC%95%BC%20%ED%95%A0%20%EB%95%8C.md) 
@@ -184,7 +186,7 @@
 
 - [dbever에서 mssql 테이블 추출하는 법](https://github.com/kingkingburger/Today_I_Learn/blob/master/DB/dbever%EC%97%90%EC%84%9C%20mssql%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EC%B6%94%EC%B6%9C%ED%95%98%EB%8A%94%20%EB%B2%95.md)
 
-- Database Lock 종류 및 기능
+- [Database Lock 종류 및 기능](https://github.com/kingkingburger/Today_I_Learn/blob/master/DB/Database%20Lock%20%EC%A2%85%EB%A5%98%20%EB%B0%8F%20%EA%B8%B0%EB%8A%A5.md)
 
   
 
