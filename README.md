@@ -68,7 +68,7 @@
 
 - [pnpm에서 tsc-watch 사용하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/pnpm%EC%97%90%EC%84%9C%20tsc-watch%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 
-- Swagger를 Typescript적용하기
+- [Swagger를 Typescript적용하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/%E2%9C%85%20Swagger%EB%A5%BC%20express%2C%20Typescript%EC%97%90%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 
 - ## Sequelize
 
@@ -129,6 +129,7 @@
 - [백틱을 이용한 코드 줄이기!](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/%EB%B0%B1%ED%8B%B1%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%BD%94%EB%93%9C%20%EC%A4%84%EC%9D%B4%EA%B8%B0!.md)
 - [JSON Parse와 JSON stringify에 대해서](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/JSON%20Parse%EC%99%80%20JSON%20stringify%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C.md)
 - [Math.max에서 Nan가 뜨는 이유](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/Math.max%EC%97%90%EC%84%9C%20Nan%EA%B0%80%20%EB%9C%A8%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
+- commonjs vs Es module 뭐가 더 좋을까?
 
 
 
