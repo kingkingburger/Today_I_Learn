@@ -80,7 +80,7 @@
   - [Sequelize에서 delete가 안될 때](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize/%E2%9C%85%20Sequelize%EC%97%90%EC%84%9C%20delete%EA%B0%80%20%EC%95%88%EB%90%A0%20%EB%95%8C.md) 
   - [sequelize에서 관계설정할 때 column 이름과 reference 이름을 달리해야 한다!](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize/Sequelize%EC%97%90%EC%84%9C%20%EA%B4%80%EA%B3%84%EC%84%A4%EC%A0%95%ED%95%A0%20%EB%95%8C%20column%EC%9D%B4%EB%A6%84%EA%B3%BC%20reference%EC%9D%B4%EB%A6%84%EC%9D%84%20%EB%8B%AC%EB%A6%AC%ED%95%B4%EC%95%BC%ED%95%9C%EB%8B%A4!.md)
   - [sequelize에서 model에서 지정한 json에 값 추가하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize/%F0%9F%9F%A9%20sequelize%EC%97%90%EC%84%9C%20model%EC%97%90%EC%84%9C%20%EC%A7%80%EC%A0%95%ED%95%9C%20json%EC%97%90%20%EA%B0%92%20%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0.md)
-  - ✅ Sequelize에서 값 증가,감소 update문 만들기
+  - [✅ Sequelize에서 값 증가,감소 update문 만들기](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize/%E2%9C%85%20Sequelize%EC%97%90%EC%84%9C%20%EA%B0%92%20%EC%A6%9D%EA%B0%80%2C%EA%B0%90%EC%86%8C%20update%EB%AC%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 
 
 
@@ -133,6 +133,7 @@
 - [Math.max에서 Nan가 뜨는 이유](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/Math.max%EC%97%90%EC%84%9C%20Nan%EA%B0%80%20%EB%9C%A8%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
 - [commonjs vs Es module 뭐가 더 좋을까?](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/%E2%9C%85%20commonjs%20vs%20Es%20module%20%EB%AD%90%EA%B0%80%20%EB%8D%94%20%EC%A2%8B%EC%9D%84%EA%B9%8C.md)
 - [✅ 객체 리터럴에서 'this' 사용하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/%E2%9C%85%20%EA%B0%9D%EC%B2%B4%20%EB%A6%AC%ED%84%B0%EB%9F%B4%EC%97%90%EC%84%9C%20'this'%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
+- 🟩 한꺼번에 비동기 처리 하고 싶을 때 Promise.allSettled
 
 
 
