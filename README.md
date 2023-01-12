@@ -133,7 +133,7 @@
 - [Math.max에서 Nan가 뜨는 이유](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/Math.max%EC%97%90%EC%84%9C%20Nan%EA%B0%80%20%EB%9C%A8%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
 - [commonjs vs Es module 뭐가 더 좋을까?](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/%E2%9C%85%20commonjs%20vs%20Es%20module%20%EB%AD%90%EA%B0%80%20%EB%8D%94%20%EC%A2%8B%EC%9D%84%EA%B9%8C.md)
 - [✅ 객체 리터럴에서 'this' 사용하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/%E2%9C%85%20%EA%B0%9D%EC%B2%B4%20%EB%A6%AC%ED%84%B0%EB%9F%B4%EC%97%90%EC%84%9C%20'this'%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
-- 🟩 한꺼번에 비동기 처리 하고 싶을 때 Promise.allSettled
+- [🟩 한꺼번에 비동기 처리 하고 싶을 때 Promise.allSettled](https://github.com/kingkingburger/Today_I_Learn/blob/27e04bc5ae6d95db473b9f5841125c272c235981/JavaScript/%F0%9F%9F%A9%20%ED%95%9C%EA%BA%BC%EB%B2%88%EC%97%90%20%EB%B9%84%EB%8F%99%EA%B8%B0%20%EC%B2%98%EB%A6%AC%20%ED%95%98%EA%B3%A0%20%EC%8B%B6%EC%9D%84%20%EB%95%8C%20Promise.allSettled.md)
 
 
 
@@ -239,3 +239,4 @@
 ## Nest
 
 - [Nest와 TypeORM(v0.3) 사용해서 curd 만들기](https://github.com/kingkingburger/Today_I_Learn/blob/master/Nest/Nest%EC%99%80%20TypeORM(v0.3)%20%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C%20curd%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+- lol.ps 크롤링 해보기
