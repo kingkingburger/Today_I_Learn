@@ -114,6 +114,7 @@
 ## Tool
 
 - [IntelliJ 단축키](https://github.com/kingkingburger/Today_I_Learn/blob/master/IntelliJ/%EB%8B%A8%EC%B6%95%ED%82%A4.md)
+- [webstorm에서 커스텀 eslint, prettier 적용하는 법](https://wonin.tistory.com/556)
 
 
 
@@ -239,4 +240,4 @@
 ## Nest
 
 - [Nest와 TypeORM(v0.3) 사용해서 curd 만들기](https://github.com/kingkingburger/Today_I_Learn/blob/master/Nest/Nest%EC%99%80%20TypeORM(v0.3)%20%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C%20curd%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
-- lol.ps 크롤링 해보기
+- [lol.ps 크롤링 해보기](https://wonin.tistory.com/553)
