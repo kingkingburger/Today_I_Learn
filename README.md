@@ -235,7 +235,8 @@
 - [vue 처음 시작하기[3]](https://github.com/kingkingburger/Today_I_Learn/blob/master/vue/vue%20%EC%B2%98%EC%9D%8C%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%5B3%5D.md)
 - [vue 처음 시작하기[4]](https://github.com/kingkingburger/Today_I_Learn/blob/master/vue/vue%20%EC%B2%98%EC%9D%8C%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%5B4%5D.md)
 - [vue와 prettier의 충돌](https://github.com/kingkingburger/Today_I_Learn/blob/master/vue/vue%EC%99%80%20prettier%EC%9D%98%20%EC%B6%A9%EB%8F%8C.md)
-- Vue에서 자식 컴포넌트에게 String Array 전달하고 싶을 때 
+- [Vue에서 자식 컴포넌트에게 String Array 전달하고 싶을 때](https://github.com/kingkingburger/Today_I_Learn/blob/master/vue/Vue%EC%97%90%EC%84%9C%20%EC%9E%90%EC%8B%9D%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%97%90%EA%B2%8C%20String%20Array%20%EC%A0%84%EB%8B%AC%ED%95%98%EA%B3%A0%20%EC%8B%B6%EC%9D%84%20%EB%95%8C.md) 
+- vue에서 alert창 이쁘게 보여주기
 
 
 
