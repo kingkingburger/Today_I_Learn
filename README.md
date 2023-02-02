@@ -150,7 +150,7 @@
 - [TypeScript에서 momentjs 대신 dayjs 사용하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/TypeScript%EC%97%90%EC%84%9C%20momentjs%20%EB%8C%80%EC%8B%A0%20dayjs%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 - [Invalid type of template literal expression에러가 났을 때](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/Invalid%20type%20of%20template%20literal%20expression%EC%97%90%EB%9F%AC%EA%B0%80%20%EB%82%AC%EC%9D%84%20%EB%95%8C.md)
 -  [Jest로 typescript 테스트 코드 만들어보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/Jest%EB%A1%9C%20typescript%EC%97%90%EC%84%9C%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%BD%94%EB%93%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0.md)
--  Typescript에서 string key로 객체 접근하기
+-  [Typescript에서 string key로 객체 접근하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/Typescript%EC%97%90%EC%84%9C%20string%20key%EB%A1%9C%20%EA%B0%9D%EC%B2%B4%20%EC%A0%91%EA%B7%BC%ED%95%98%EA%B8%B0.md)
 
 
 
@@ -245,3 +245,4 @@
 
 - [Nest와 TypeORM(v0.3) 사용해서 curd 만들기](https://github.com/kingkingburger/Today_I_Learn/blob/master/Nest/Nest%EC%99%80%20TypeORM(v0.3)%20%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C%20curd%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 - [lol.ps 크롤링 해보기](https://wonin.tistory.com/553)
+- [Nest] Test시 Please make sure that the argument Repository at index [0] is available in the ResultIoModule 에러 처리
