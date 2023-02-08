@@ -2,13 +2,11 @@
 
 📘Today I Learned. 하루 모든 활동들을 정리📘
 
-
-
 ## Spring
 
 - [Spring 프로젝트 생성하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/Spring%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0.md)
 
-- [스프링 웹 개발 기초(정적 컨탠츠, MVC 탬플릿 엔진, Api)에 대해](https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%EA%B8%B0%EC%B4%88(%EC%A0%95%EC%A0%81%20%EC%BB%A8%ED%83%A0%EC%B8%A0%2C%20MVC%20%ED%83%AC%ED%94%8C%EB%A6%BF%20%EC%97%94%EC%A7%84%2C%20Api).md)
+- [스프링 웹 개발 기초(정적 컨탠츠, MVC 탬플릿 엔진, Api)에 대해](<https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%EA%B8%B0%EC%B4%88(%EC%A0%95%EC%A0%81%20%EC%BB%A8%ED%83%A0%EC%B8%A0%2C%20MVC%20%ED%83%AC%ED%94%8C%EB%A6%BF%20%EC%97%94%EC%A7%84%2C%20Api).md>)
 
 - [Spring boot로 Id, Name을 가진 도메인과 리포지토리 만들기](https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/Spring%20boot%EB%A1%9C%20Id%2C%20Name%EC%9D%84%20%EA%B0%80%EC%A7%84%20%EB%8F%84%EB%A9%94%EC%9D%B8%EA%B3%BC%20%EB%A6%AC%ED%8F%AC%EC%A7%80%ED%86%A0%EB%A6%AC%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 
@@ -24,11 +22,11 @@
 
 - [스프링써서 DB에 연결하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/%EC%8A%A4%ED%94%84%EB%A7%81%EC%9C%BC%EB%A1%9C%20db%EC%97%90%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.md)
 
-- [JPA(Java Persistence API) 맛보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/JPA(Java%20Persistence%20API)%20%EA%B8%B0%EC%B4%88.md)
+- [JPA(Java Persistence API) 맛보기](<https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/JPA(Java%20Persistence%20API)%20%EA%B8%B0%EC%B4%88.md>)
 
-- [의존시키기](https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/%EC%9D%98%EC%A1%B4%EC%8B%9C%ED%82%A4%EA%B8%B0(%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EC%8A%A4%EC%BA%94)%2C%20%EC%9E%90%EB%B0%94%20%EC%BD%94%EB%93%9C%EB%A1%9C%20%EC%A7%81%EC%A0%91%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B9%88%20%EB%93%B1%EB%A1%9D%ED%95%98%EA%B8%B0.md)
+- [의존시키기](<https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/%EC%9D%98%EC%A1%B4%EC%8B%9C%ED%82%A4%EA%B8%B0(%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EC%8A%A4%EC%BA%94)%2C%20%EC%9E%90%EB%B0%94%20%EC%BD%94%EB%93%9C%EB%A1%9C%20%EC%A7%81%EC%A0%91%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B9%88%20%EB%93%B1%EB%A1%9D%ED%95%98%EA%B8%B0.md>)
 
-- [AOP란?](https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/AOP%EB%9E%80(%20Aspect%20Oriented%20Programming%20).md)
+- [AOP란?](<https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/AOP%EB%9E%80(%20Aspect%20Oriented%20Programming%20).md>)
 
 - [(강의보고)스프링부트 개념정리](https://github.com/kingkingburger/Today_I_Learn/tree/master/Spring_Basic/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%20%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC%20with%20JPA)
 
@@ -40,17 +38,10 @@
 
 - [JPA에서 쿼리를 쓰는법](https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/JPA%EC%97%90%EC%84%9C%20%EC%BF%BC%EB%A6%AC%EB%A5%BC%20%EC%93%B0%EB%8A%94%20%EB%B2%95.md)
 
-  
-
-
-
-
 ## Thymeleaf
 
 - [Thymeleaf로 spring Controller에게 데이터 보내기](https://github.com/kingkingburger/Today_I_Learn/tree/master/Thymeleaf)
 - [Thymeleaf VS JSP](https://github.com/kingkingburger/Today_I_Learn/blob/master/Thymeleaf/Thymeleaf%20VS%20JSP.md)
-
-
 
 ## NodeJs
 
@@ -60,7 +51,7 @@
 
 - [Nodejs에서 프로시져 사용하기(mssql)](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Node.js%20%EC%97%90%EC%84%9C%20%ED%94%84%EB%A1%9C%EC%8B%9C%EC%A0%B8%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 
-- [node v14 -> v18로 넘어왔는데 app.use()에서 에러가 납니다.](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/node%20v14%20v18%EB%A1%9C%20%EB%84%98%EC%96%B4%EC%99%94%EB%8A%94%EB%8D%B0%20app.use()%EC%97%90%EC%84%9C%20%EC%97%90%EB%9F%AC%EA%B0%80%20%EB%82%A9%EB%8B%88%EB%8B%A4)
+- [node v14 -> v18로 넘어왔는데 app.use()에서 에러가 납니다.](<https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/node%20v14%20v18%EB%A1%9C%20%EB%84%98%EC%96%B4%EC%99%94%EB%8A%94%EB%8D%B0%20app.use()%EC%97%90%EC%84%9C%20%EC%97%90%EB%9F%AC%EA%B0%80%20%EB%82%A9%EB%8B%88%EB%8B%A4>)
 
 - [package.json에서 @types가 붙는 이유는](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/%F0%9F%91%80%20package.json%EC%97%90%EC%84%9C%20%40types%EA%B0%80%20%EB%B6%99%EB%8A%94%20%EC%9D%B4%EC%9C%A0%EB%8A%94.md)
 
@@ -72,30 +63,23 @@
 
 - ## Sequelize
 
-  - [Sequelize에서 include된 객체를 다시가져와야 할 때](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize%EC%97%90%EC%84%9C%20include%EB%90%9C%20%EA%B0%9D%EC%B2%B4%EB%A5%BC%20%EB%8B%A4%EC%8B%9C%20%EA%B0%80%EC%A0%B8%EC%99%80%EC%95%BC%20%ED%95%A0%20%EB%95%8C.md) 
-  - [Sequelize에서 boolean 타입칼럼을 (A=0 or A IS NULL)문으로 만들어보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize%EC%97%90%EC%84%9C%20boolean%20%ED%83%80%EC%9E%85%EC%B9%BC%EB%9F%BC%EC%9D%84%20(A%3D0%20or%20A%20IS%20NULL)%EB%AC%B8%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0.md)
+  - [Sequelize에서 include된 객체를 다시가져와야 할 때](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize%EC%97%90%EC%84%9C%20include%EB%90%9C%20%EA%B0%9D%EC%B2%B4%EB%A5%BC%20%EB%8B%A4%EC%8B%9C%20%EA%B0%80%EC%A0%B8%EC%99%80%EC%95%BC%20%ED%95%A0%20%EB%95%8C.md)
+  - [Sequelize에서 boolean 타입칼럼을 (A=0 or A IS NULL)문으로 만들어보기](<https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize%EC%97%90%EC%84%9C%20boolean%20%ED%83%80%EC%9E%85%EC%B9%BC%EB%9F%BC%EC%9D%84%20(A%3D0%20or%20A%20IS%20NULL)%EB%AC%B8%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0.md>)
   - [Sequelize select문 조건 알아보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize%20select%EB%AC%B8%20%EC%A1%B0%EA%B1%B4%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.md)
   - [Sequelize에서 서브쿼리를 써야할 때!](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/%E2%9C%85%20Sequelize%EC%97%90%EC%84%9C%20%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC%EB%A5%BC%20%EC%8D%A8%EC%95%BC%ED%95%A0%20%EB%95%8C!.md)
   - [Seqeulize에서 연관관계 Json 가져오기](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize/Seqeulize%EC%97%90%EC%84%9C%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20Json%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.md)
-  - [Sequelize에서 delete가 안될 때](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize/%E2%9C%85%20Sequelize%EC%97%90%EC%84%9C%20delete%EA%B0%80%20%EC%95%88%EB%90%A0%20%EB%95%8C.md) 
+  - [Sequelize에서 delete가 안될 때](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize/%E2%9C%85%20Sequelize%EC%97%90%EC%84%9C%20delete%EA%B0%80%20%EC%95%88%EB%90%A0%20%EB%95%8C.md)
   - [sequelize에서 관계설정할 때 column 이름과 reference 이름을 달리해야 한다!](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize/Sequelize%EC%97%90%EC%84%9C%20%EA%B4%80%EA%B3%84%EC%84%A4%EC%A0%95%ED%95%A0%20%EB%95%8C%20column%EC%9D%B4%EB%A6%84%EA%B3%BC%20reference%EC%9D%B4%EB%A6%84%EC%9D%84%20%EB%8B%AC%EB%A6%AC%ED%95%B4%EC%95%BC%ED%95%9C%EB%8B%A4!.md)
   - [sequelize에서 model에서 지정한 json에 값 추가하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize/%F0%9F%9F%A9%20sequelize%EC%97%90%EC%84%9C%20model%EC%97%90%EC%84%9C%20%EC%A7%80%EC%A0%95%ED%95%9C%20json%EC%97%90%20%EA%B0%92%20%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0.md)
   - [✅ Sequelize에서 값 증가,감소 update문 만들기](https://github.com/kingkingburger/Today_I_Learn/blob/master/NodeJS/Sequelize/%E2%9C%85%20Sequelize%EC%97%90%EC%84%9C%20%EA%B0%92%20%EC%A6%9D%EA%B0%80%2C%EA%B0%90%EC%86%8C%20update%EB%AC%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
-
-
-
 
 ## Java
 
 - [Java에서 동적할당받기(Java Collection 사용)](https://github.com/kingkingburger/Today_I_Learn/blob/master/Java/Java%EC%97%90%EC%84%9C%20%EB%8F%99%EC%A0%81%ED%95%A0%EB%8B%B9%20%EB%B0%9B%EA%B8%B0.md)
 
-- [입출력 스트림 (InputStream, OutputStream)란](https://github.com/kingkingburger/Today_I_Learn/blob/master/Java/%EC%9E%85%EC%B6%9C%EB%A0%A5%20%EC%8A%A4%ED%8A%B8%EB%A6%BC%20(InputStream%2C%20OutputStream)%EB%9E%80.md)
+- [입출력 스트림 (InputStream, OutputStream)란](<https://github.com/kingkingburger/Today_I_Learn/blob/master/Java/%EC%9E%85%EC%B6%9C%EB%A0%A5%20%EC%8A%A4%ED%8A%B8%EB%A6%BC%20(InputStream%2C%20OutputStream)%EB%9E%80.md>)
 
 - [Jar와 War의 차이는 무엇일까?](https://github.com/kingkingburger/Today_I_Learn/blob/master/Java/JAR%EC%99%80%20WAR%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EB%8A%94%20%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C.md)
-
-  
-
-
 
 ## WEB
 
@@ -107,18 +91,10 @@
 - [무료 호스팅 모아둔 사이트](https://github.com/kingkingburger/Today_I_Learn/blob/master/Web/%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EC%9A%A9%20%EB%AC%B4%EB%A3%8C%20%ED%98%B8%EC%8A%A4%ED%8C%85%20TOP%207.md)
 - [WEB 서버와 WAS의 차이](https://github.com/kingkingburger/Today_I_Learn/blob/master/Web/WEB%20%EC%84%9C%EB%B2%84%EC%99%80%20WAS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 
-
-
-
-
 ## Tool
 
 - [IntelliJ 단축키](https://github.com/kingkingburger/Today_I_Learn/blob/master/IntelliJ/%EB%8B%A8%EC%B6%95%ED%82%A4.md)
 - [webstorm에서 커스텀 eslint, prettier 적용하는 법](https://wonin.tistory.com/556)
-
-
-
-
 
 ## JavaScript
 
@@ -136,8 +112,7 @@
 - [✅ 객체 리터럴에서 'this' 사용하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/%E2%9C%85%20%EA%B0%9D%EC%B2%B4%20%EB%A6%AC%ED%84%B0%EB%9F%B4%EC%97%90%EC%84%9C%20'this'%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 - [🟩 한꺼번에 비동기 처리 하고 싶을 때 Promise.allSettled](https://github.com/kingkingburger/Today_I_Learn/blob/27e04bc5ae6d95db473b9f5841125c272c235981/JavaScript/%F0%9F%9F%A9%20%ED%95%9C%EA%BA%BC%EB%B2%88%EC%97%90%20%EB%B9%84%EB%8F%99%EA%B8%B0%20%EC%B2%98%EB%A6%AC%20%ED%95%98%EA%B3%A0%20%EC%8B%B6%EC%9D%84%20%EB%95%8C%20Promise.allSettled.md)
 - [curried funciton는 어떻게 쓸까](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/curried%20funciton%EB%8A%94%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%93%B8%EA%B9%8C.md)
-
-
+- Js에서 브라우저 쿠키 이해하기
 
 ## TypeScript
 
@@ -149,12 +124,8 @@
 - [Unknown 타입에 대해서](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/Unknown%20%ED%83%80%EC%9E%85%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C.md)
 - [TypeScript에서 momentjs 대신 dayjs 사용하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/TypeScript%EC%97%90%EC%84%9C%20momentjs%20%EB%8C%80%EC%8B%A0%20dayjs%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 - [Invalid type of template literal expression에러가 났을 때](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/Invalid%20type%20of%20template%20literal%20expression%EC%97%90%EB%9F%AC%EA%B0%80%20%EB%82%AC%EC%9D%84%20%EB%95%8C.md)
--  [Jest로 typescript 테스트 코드 만들어보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/Jest%EB%A1%9C%20typescript%EC%97%90%EC%84%9C%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%BD%94%EB%93%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0.md)
--  [Typescript에서 string key로 객체 접근하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/Typescript%EC%97%90%EC%84%9C%20string%20key%EB%A1%9C%20%EA%B0%9D%EC%B2%B4%20%EC%A0%91%EA%B7%BC%ED%95%98%EA%B8%B0.md)
-
-
-
-
+- [Jest로 typescript 테스트 코드 만들어보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/Jest%EB%A1%9C%20typescript%EC%97%90%EC%84%9C%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%BD%94%EB%93%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0.md)
+- [Typescript에서 string key로 객체 접근하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/TypeScript/Typescript%EC%97%90%EC%84%9C%20string%20key%EB%A1%9C%20%EA%B0%9D%EC%B2%B4%20%EC%A0%91%EA%B7%BC%ED%95%98%EA%B8%B0.md)
 
 ## React
 
@@ -167,18 +138,12 @@
 - [map안에 button이 있을때](https://github.com/kingkingburger/Today_I_Learn/blob/master/React/map%EC%95%88%EC%97%90%20button%EC%9D%B4%20%EC%9E%88%EC%9D%84%EB%95%8C.md)
 - [button 에서 onclick 사용하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/React/button%20%EC%97%90%EC%84%9C%20onclick%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 - [React bootstrap 사용해보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/React/React%20bootstrap%20%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0.md)
--  [컴포넌트 렌더링 할 때 반환되는 루트 태그가 2개 있어서 발생했던 경우](https://github.com/kingkingburger/Today_I_Learn/blob/master/React/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%ED%95%A0%20%EB%95%8C%20%EB%B0%98%ED%99%98%EB%90%98%EB%8A%94%20%EB%A3%A8%ED%8A%B8%20%ED%83%9C%EA%B7%B8%EA%B0%80%202%EA%B0%9C%20%EC%9E%88%EC%96%B4%EC%84%9C%20%EB%B0%9C%EC%83%9D%ED%96%88%EB%8D%98%20%EA%B2%BD%EC%9A%B0.md)
-
-
-
-
+- [컴포넌트 렌더링 할 때 반환되는 루트 태그가 2개 있어서 발생했던 경우](https://github.com/kingkingburger/Today_I_Learn/blob/master/React/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%ED%95%A0%20%EB%95%8C%20%EB%B0%98%ED%99%98%EB%90%98%EB%8A%94%20%EB%A3%A8%ED%8A%B8%20%ED%83%9C%EA%B7%B8%EA%B0%80%202%EA%B0%9C%20%EC%9E%88%EC%96%B4%EC%84%9C%20%EB%B0%9C%EC%83%9D%ED%96%88%EB%8D%98%20%EA%B2%BD%EC%9A%B0.md)
 
 ## Git
 
 - [Pull Reqeust 알아보기](https://github.com/kingkingburger/Today_I_Learn/blob/master/Git/Pull%20Reqeust%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.md)
 - [마지막 커밋 메세지 바꾸는법](https://github.com/kingkingburger/Today_I_Learn/blob/master/Git/%EB%A7%88%EC%A7%80%EB%A7%89%20%EC%BB%A4%EB%B0%8B%20%EB%A9%94%EC%84%B8%EC%A7%80%20%EB%B0%94%EA%BE%B8%EB%8A%94%EB%B2%95.md)
-
-
 
 ## DB
 
@@ -196,11 +161,6 @@
 
 - [Database Lock 종류 및 기능](https://github.com/kingkingburger/Today_I_Learn/blob/master/DB/Database%20Lock%20%EC%A2%85%EB%A5%98%20%EB%B0%8F%20%EA%B8%B0%EB%8A%A5.md)
 
-  
-
-
-
-
 ## Docker
 
 - [Docker란?](https://github.com/kingkingburger/Today_I_Learn/blob/master/Docker/Docker%EB%9E%80.md)
@@ -208,26 +168,18 @@
 - [docker와 docker-compose의 차이점](https://github.com/kingkingburger/Today_I_Learn/blob/master/Docker/docker%EC%99%80%20docker-compose%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
 - [도커 컨테이너에서 다른 컨테이너 접속하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/Docker/%EB%8F%84%EC%BB%A4%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%97%90%EC%84%9C%20%EB%8B%A4%EB%A5%B8%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%20%EC%A0%91%EC%86%8D%ED%95%98%EA%B8%B0.md)
 
-
-
 ## 인증
 
 - [JWT를 이용한 인증 과정](https://github.com/kingkingburger/Today_I_Learn/blob/master/%EC%9D%B8%EC%A6%9D/JWT%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%9D%B8%EC%A6%9D%20%EA%B3%BC%EC%A0%95.md)
-- [인증방식은 3가지가 있다!(쿠키, 세션, 토큰)](https://github.com/kingkingburger/Today_I_Learn/blob/master/%EC%9D%B8%EC%A6%9D/%EC%9D%B8%EC%A6%9D%20%EB%B0%A9%EC%8B%9D%EC%9D%80%203%EA%B0%80%EC%A7%80%EA%B0%80%20%EC%9E%88%EB%8B%A4!(%EC%BF%A0%ED%82%A4%2C%20%EC%84%B8%EC%85%98%2C%20%ED%86%A0%ED%81%B0).md)
-
-
+- [인증방식은 3가지가 있다!(쿠키, 세션, 토큰)](<https://github.com/kingkingburger/Today_I_Learn/blob/master/%EC%9D%B8%EC%A6%9D/%EC%9D%B8%EC%A6%9D%20%EB%B0%A9%EC%8B%9D%EC%9D%80%203%EA%B0%80%EC%A7%80%EA%B0%80%20%EC%9E%88%EB%8B%A4!(%EC%BF%A0%ED%82%A4%2C%20%EC%84%B8%EC%85%98%2C%20%ED%86%A0%ED%81%B0).md>)
 
 ## Network
 
 - [vpn은 무엇인가?](https://github.com/kingkingburger/Today_I_Learn/blob/master/Network/VPN%EC%9D%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md)
 
-
-
 ## Linux
 
 - [리눅스의 시간은 윈도우의 시간과 다르게 흘러가나](https://github.com/kingkingburger/Today_I_Learn/blob/master/%EB%A6%AC%EB%88%85%EC%8A%A4/%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9D%98%20%EC%8B%9C%EA%B0%84%EA%B3%BC%20%EC%9C%88%EB%8F%84%EC%9A%B0%EC%9D%98%20%EC%8B%9C%EA%B0%84%EC%9D%80%20%EB%8B%A4%EB%A5%B4%EA%B2%8C%20%ED%9D%98%EB%9F%AC%EA%B0%80%EB%82%98.md)
-
-
 
 ## Vue
 
@@ -236,13 +188,11 @@
 - [vue 처음 시작하기[3]](https://github.com/kingkingburger/Today_I_Learn/blob/master/vue/vue%20%EC%B2%98%EC%9D%8C%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%5B3%5D.md)
 - [vue 처음 시작하기[4]](https://github.com/kingkingburger/Today_I_Learn/blob/master/vue/vue%20%EC%B2%98%EC%9D%8C%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%5B4%5D.md)
 - [vue와 prettier의 충돌](https://github.com/kingkingburger/Today_I_Learn/blob/master/vue/vue%EC%99%80%20prettier%EC%9D%98%20%EC%B6%A9%EB%8F%8C.md)
-- [Vue에서 자식 컴포넌트에게 String Array 전달하고 싶을 때](https://github.com/kingkingburger/Today_I_Learn/blob/master/vue/Vue%EC%97%90%EC%84%9C%20%EC%9E%90%EC%8B%9D%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%97%90%EA%B2%8C%20String%20Array%20%EC%A0%84%EB%8B%AC%ED%95%98%EA%B3%A0%20%EC%8B%B6%EC%9D%84%20%EB%95%8C.md) 
+- [Vue에서 자식 컴포넌트에게 String Array 전달하고 싶을 때](https://github.com/kingkingburger/Today_I_Learn/blob/master/vue/Vue%EC%97%90%EC%84%9C%20%EC%9E%90%EC%8B%9D%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%97%90%EA%B2%8C%20String%20Array%20%EC%A0%84%EB%8B%AC%ED%95%98%EA%B3%A0%20%EC%8B%B6%EC%9D%84%20%EB%95%8C.md)
 - [vue에서 alert창 이쁘게 보여주기](https://github.com/kingkingburger/Today_I_Learn/blob/master/vue/vue%EC%97%90%EC%84%9C%20alert%EC%B0%BD%20%EC%9D%B4%EC%81%98%EA%B2%8C%20%EB%B3%B4%EC%97%AC%EC%A3%BC%EA%B8%B0.md)
-
-
 
 ## Nest
 
-- [Nest와 TypeORM(v0.3) 사용해서 curd 만들기](https://github.com/kingkingburger/Today_I_Learn/blob/master/Nest/Nest%EC%99%80%20TypeORM(v0.3)%20%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C%20curd%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+- [Nest와 TypeORM(v0.3) 사용해서 curd 만들기](<https://github.com/kingkingburger/Today_I_Learn/blob/master/Nest/Nest%EC%99%80%20TypeORM(v0.3)%20%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C%20curd%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md>)
 - [lol.ps 크롤링 해보기](https://wonin.tistory.com/553)
-- [Nest] Test시 Please make sure that the argument Repository at index [0] is available in the ResultIoModule 에러 처리
+- [[Nest] Test시 Please make sure that the argument Repository at index [0] is available in the ResultIoModule 에러 처리](https://github.com/kingkingburger/Today_I_Learn/blob/master/Nest/Test%EC%8B%9C%20Please%20make%20sure%20that%20the%20argument%20Repository%20at%20index%20%5B0%5D%20is%20available%20in%20the%20ResultIoModule%20%EC%97%90%EB%9F%AC%20%EC%B2%98%EB%A6%AC.md)
