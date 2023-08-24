@@ -112,7 +112,7 @@
 - [✅ 객체 리터럴에서 'this' 사용하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/%E2%9C%85%20%EA%B0%9D%EC%B2%B4%20%EB%A6%AC%ED%84%B0%EB%9F%B4%EC%97%90%EC%84%9C%20'this'%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 - [🟩 한꺼번에 비동기 처리 하고 싶을 때 Promise.allSettled](https://github.com/kingkingburger/Today_I_Learn/blob/27e04bc5ae6d95db473b9f5841125c272c235981/JavaScript/%F0%9F%9F%A9%20%ED%95%9C%EA%BA%BC%EB%B2%88%EC%97%90%20%EB%B9%84%EB%8F%99%EA%B8%B0%20%EC%B2%98%EB%A6%AC%20%ED%95%98%EA%B3%A0%20%EC%8B%B6%EC%9D%84%20%EB%95%8C%20Promise.allSettled.md)
 - [curried funciton는 어떻게 쓸까](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/curried%20funciton%EB%8A%94%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%93%B8%EA%B9%8C.md)
-- Js에서 브라우저 쿠키 이해하기
+- [Js에서 브라우저 쿠키 이해하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/JavaScript/Js%EC%97%90%EC%84%9C%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EC%BF%A0%ED%82%A4%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
 
 ## TypeScript
 
@@ -196,7 +196,8 @@
 - [Nest와 TypeORM(v0.3) 사용해서 curd 만들기](<https://github.com/kingkingburger/Today_I_Learn/blob/master/Nest/Nest%EC%99%80%20TypeORM(v0.3)%20%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C%20curd%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md>)
 - [lol.ps 크롤링 해보기](https://wonin.tistory.com/553)
 - [[Nest] Test시 Please make sure that the argument Repository at index [0] is available in the ResultIoModule 에러 처리](https://github.com/kingkingburger/Today_I_Learn/blob/master/Nest/Test%EC%8B%9C%20Please%20make%20sure%20that%20the%20argument%20Repository%20at%20index%20%5B0%5D%20is%20available%20in%20the%20ResultIoModule%20%EC%97%90%EB%9F%AC%20%EC%B2%98%EB%A6%AC.md)
+- nest에서 typeorm을 활용해서 db 2개 연결하는법
 
 ## Next
 
-- nextjs13 에서 server component, client component에 대해서
+- [nextjs13 에서 server component, client component에 대해서](https://github.com/kingkingburger/Today_I_Learn/blob/master/nextjs/nextjs13%20%EC%97%90%EC%84%9C%20server%20component%2C%20client%20component%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C.md)
