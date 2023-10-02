@@ -197,6 +197,7 @@
 - [lol.ps 크롤링 해보기](https://wonin.tistory.com/553)
 - [[Nest] Test시 Please make sure that the argument Repository at index [0] is available in the ResultIoModule 에러 처리](https://github.com/kingkingburger/Today_I_Learn/blob/master/Nest/Test%EC%8B%9C%20Please%20make%20sure%20that%20the%20argument%20Repository%20at%20index%20%5B0%5D%20is%20available%20in%20the%20ResultIoModule%20%EC%97%90%EB%9F%AC%20%EC%B2%98%EB%A6%AC.md)
 - nest에서 typeorm을 활용해서 db 2개 연결하는법
+- nest에서 커스텀 데코레이터로 typeorm transaction 관리하기
 
 ## Next
 
