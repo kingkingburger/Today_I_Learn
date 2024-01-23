@@ -38,6 +38,8 @@
 
 - [JPA에서 쿼리를 쓰는법](https://github.com/kingkingburger/Today_I_Learn/blob/master/Spring_Basic/JPA%EC%97%90%EC%84%9C%20%EC%BF%BC%EB%A6%AC%EB%A5%BC%20%EC%93%B0%EB%8A%94%20%EB%B2%95.md)
 
+- Spring에서 Args 어노테이션 알아보기
+
 ## Thymeleaf
 
 - [Thymeleaf로 spring Controller에게 데이터 보내기](https://github.com/kingkingburger/Today_I_Learn/tree/master/Thymeleaf)
@@ -196,8 +198,8 @@
 - [Nest와 TypeORM(v0.3) 사용해서 curd 만들기](<https://github.com/kingkingburger/Today_I_Learn/blob/master/Nest/Nest%EC%99%80%20TypeORM(v0.3)%20%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C%20curd%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md>)
 - [lol.ps 크롤링 해보기](https://wonin.tistory.com/553)
 - [[Nest] Test시 Please make sure that the argument Repository at index [0] is available in the ResultIoModule 에러 처리](https://github.com/kingkingburger/Today_I_Learn/blob/master/Nest/Test%EC%8B%9C%20Please%20make%20sure%20that%20the%20argument%20Repository%20at%20index%20%5B0%5D%20is%20available%20in%20the%20ResultIoModule%20%EC%97%90%EB%9F%AC%20%EC%B2%98%EB%A6%AC.md)
-- nest에서 typeorm을 활용해서 db 2개 연결하는법
-- nest에서 커스텀 데코레이터로 typeorm transaction 관리하기
+- [nest에서 typeorm을 활용해서 db 2개 연결하는법](https://github.com/kingkingburger/Today_I_Learn/blob/master/Nest/nest%EC%97%90%EC%84%9C%20typeorm%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%B4%EC%84%9C%20db%202%EA%B0%9C%20%EC%97%B0%EA%B2%B0%ED%95%98%EB%8A%94%EB%B2%95.md)
+- [nest에서 커스텀 데코레이터로 typeorm transaction 관리하기](https://github.com/kingkingburger/Today_I_Learn/blob/master/Nest/nest%EC%97%90%EC%84%9C%20%EC%BB%A4%EC%8A%A4%ED%85%80%20%EB%8D%B0%EC%BD%94%EB%A0%88%EC%9D%B4%ED%84%B0%EB%A1%9C%20typeorm%20transaction%20%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0.md)
 
 ## Next
 
