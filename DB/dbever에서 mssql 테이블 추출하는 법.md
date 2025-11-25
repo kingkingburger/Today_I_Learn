@@ -41,10 +41,6 @@ Use data type scale for fraction digits
 
 
 
-![image](https://user-images.githubusercontent.com/112359150/192739317-933ae260-2358-43db-90f7-689f5c6e254f.png)
-
-다음 진행을 하면 csv 파일이 추출 됩니다.
-
 
 
 하지만 칼럼 정보를 복사하는건 못했습니다. 일일이 바꿔줬지요. 
