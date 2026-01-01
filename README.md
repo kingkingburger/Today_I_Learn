@@ -204,3 +204,6 @@
 ## Next
 
 - [nextjs13 에서 server component, client component에 대해서](https://github.com/kingkingburger/Today_I_Learn/blob/master/nextjs/nextjs13%20%EC%97%90%EC%84%9C%20server%20component%2C%20client%20component%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C.md)
+
+## 독서
+[실용주의 프로그래머](https://github.com/kingkingburger/Today_I_Learn/tree/master/%EB%8F%85%EC%84%9C/%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8)
