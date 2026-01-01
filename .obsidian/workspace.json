@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "c6284bb12358ebb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "90d9692cd40a4fd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3d53dbcb591ea20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "독서/실용주의 프로그래머/Topic 6 지식 포트폴리오.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Topic 6 지식 포트폴리오"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07dfc1c056fd9282",
+    "type": "split",
+    "children": [
+      {
+        "id": "e26608140d8c1f77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2640500ab5c015a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "253f859ae7cc3cb8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "ddab5fde2a26f6d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f0161bafce8cb3e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a49b26c7da066ce7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08d7f4d014378db6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "독서/실용주의 프로그래머/Topic 6 지식 포트폴리오.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Topic 6 지식 포트폴리오 의 백링크"
+            }
+          },
+          {
+            "id": "403c71ba98af0168",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "독서/실용주의 프로그래머/Topic 6 지식 포트폴리오.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Topic 6 지식 포트폴리오 의 나가는 링크"
+            }
+          },
+          {
+            "id": "1f957b33cf85722b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "d85e218a3a1678e7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "fd6d12435730ebee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "독서/실용주의 프로그래머/Topic 6 지식 포트폴리오.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Topic 6 지식 포트폴리오 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "e3d53dbcb591ea20",
+  "lastOpenFiles": [
+    "독서/실용주의 프로그래머/Topic 6 지식 포트폴리오.md",
+    "독서/실용주의 프로그래머",
+    "독서"
+  ]
+}
