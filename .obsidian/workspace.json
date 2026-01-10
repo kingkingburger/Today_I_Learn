@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "독서/실용주의 프로그래머/Topic 11 가역성.md",
+                "file": "독서/실용주의 프로그래머/Topic 12 예광탄.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Topic 11 가역성"
+              "title": "Topic 12 예광탄"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "e3d53dbcb591ea20",
   "lastOpenFiles": [
-    "독서/실용주의 프로그래머/Topic 6 지식 포트폴리오.md",
     "독서/실용주의 프로그래머/Topic 11 가역성.md",
+    "독서/실용주의 프로그래머/Topic 12 예광탄.md",
+    "독서/실용주의 프로그래머/Topic 6 지식 포트폴리오.md",
     "README.md",
     "독서/실용주의 프로그래머",
     "독서"
